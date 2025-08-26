@@ -1,5 +1,5 @@
 # Capstone-SP-IPT
-Evaluasi Produk dan Strategi  Pemasaran Perusahaan A  Melalui Segmentasi Pelanggan dan Identifikasi Produk Terlaris
+## Evaluasi Produk dan Strategi  Pemasaran Perusahaan A  Melalui Segmentasi Pelanggan dan Identifikasi Produk Terlaris
 
 This project aimed to solve three main business problems: identifying best-selling products, evaluating marketing performance, and customer segmentation. To achieve these goals, a meticulous data cleaning and preprocessing phase was conducted, including handling missing values, removing duplicates, and converting date formats to ensure accurate analysis.
 
